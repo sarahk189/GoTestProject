@@ -1,0 +1,28 @@
+# Binaries (executables)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output folders
+/bin/
+/build/
+/dist/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Go build cache
+*.out
+
+# Dependency lock files (optional but usually keep go.sum)
+# Uncomment this if you prefer not to track it:
+# go.sum
